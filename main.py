@@ -13,7 +13,7 @@ class TextHelper:
         cv2.putText(frame, text, coords, self.text_type, 0.5, self.bg_color, 4, self.line_type)
         cv2.putText(frame, text, coords, self.text_type, 0.5, self.color, 1, self.line_type)
 
-class_names = ['neutral', 'happy', 'sad', 'surprise', 'anger']
+class_names = ['dipshit', 'idiot', 'dickhead', 'moron', 'bastard']
 
 openvinoVersion = "2021.3"
 p = dai.Pipeline()
