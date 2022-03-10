@@ -1,6 +1,6 @@
 # Mean AI
 
-This AI is not very friendly to people.
+An AI that is not very friendly to humans.
 
 ## Installation
 
